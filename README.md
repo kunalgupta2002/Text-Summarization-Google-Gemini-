@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/kunalgupta2002/text-summarizer-key-points-highlighter.git
+git clone https://github.com/kunalgupta2002/text-summarization-google-gemini.git
 cd text-summarizer-key-points-highlighter
 Install the required dependencies:
 
