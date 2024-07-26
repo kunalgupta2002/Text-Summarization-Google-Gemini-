@@ -18,4 +18,4 @@ To get started with the project, follow these steps:
 Clone the repository:
 
 Copy code
-git clone
+git clone https://github.com/kunalgupta2002/Text-Summarization-Google-Gemini-.git
