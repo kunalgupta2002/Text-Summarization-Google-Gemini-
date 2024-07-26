@@ -19,3 +19,12 @@ Clone the repository:
 
 Copy code
 git clone https://github.com/kunalgupta2002/Text-Summarization-Google-Gemini-.git
+
+Usage
+1. Open the web browser and go to the local URL provided by Streamlit (usually http://localhost:8501).
+
+2. Enter the text you want to summarize in the input box.
+
+3. Click the "Summarize" button.
+
+4. The application will display the summarized text and highlight the key points.
