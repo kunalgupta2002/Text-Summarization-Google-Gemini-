@@ -8,6 +8,6 @@ Features
 3. User-Friendly Interface: Streamlit-based interface for easy interaction and input.
 
 Technologies Used
-LangChain: Used for handling natural language processing tasks and text manipulation.
-Google Gemini: Employed for advanced text analysis and summarization capabilities.
-Streamlit: Provides a simple and interactive web interface for user input and output display.
+1. LangChain: Used for handling natural language processing tasks and text manipulation.
+2. Google Gemini: Employed for advanced text analysis and summarization capabilities.
+3. Streamlit: Provides a simple and interactive web interface for user input and output display.
