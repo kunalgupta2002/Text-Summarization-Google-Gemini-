@@ -1,4 +1,4 @@
-Project Title: Text Summarizer and Key Points Highlighter
+#Project Title: Text Summarizer and Key Points Highlighter
 Overview
 This project leverages LangChain, Google Gemini, and Streamlit to create a web application that takes text input from the user, summarizes the content, and highlights the key points within the text. The main goal is to provide users with a concise summary while emphasizing the most important information from the provided text.
 
