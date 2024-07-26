@@ -11,3 +11,11 @@ Technologies Used
 1. LangChain: Used for handling natural language processing tasks and text manipulation.
 2. Google Gemini: Employed for advanced text analysis and summarization capabilities.
 3. Streamlit: Provides a simple and interactive web interface for user input and output display.
+
+Installation
+To get started with the project, follow these steps:
+
+Clone the repository:
+
+Copy code
+git clone
