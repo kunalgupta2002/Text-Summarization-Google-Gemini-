@@ -25,6 +25,21 @@ Usage
 
 2. Enter the text you want to summarize in the input box.
 
-3. Click the "Summarize" button.
+3. Click the "Enter" button.
 
 4. The application will display the summarized text and highlight the key points.
+
+Contributing:
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+License:
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgements
+1.LangChain
+2.Google Gemini
+3.Streamlit
+4.Contact
+For any questions or inquiries, please contact kunalgupta182002@gmail.com.
+
+Feel free to customize this README file to better fit your project's specific details and requirements.
